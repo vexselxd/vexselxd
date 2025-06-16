@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-link-here.com/banner.png" alt="Banner" style="width:100%; border-radius:10px;">
+  <img src="https://github.com/vexselxd/banner/blob/main/%40.png" alt="Banner" style="width:100%; border-radius:10px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Medi</h1>
+<h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">🐍 Python Developer | 16 y/o | Kodland Pro Student</h3>
 
 <p align="center">
@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  Made with 💻 by Medi — always learning, always building.
+  Made with 💻 by Chris — always learning, always building.
 </p>
