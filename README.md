@@ -1,56 +1,63 @@
 <!-- Banner -->
-<img src="https://your-banner-link-here.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;"/>
-
-<h1 align="center">👋 Hi, I'm Chris!!</h1>
-<h3 align="center">🐍 16 y/o Python Developer | Kodland Pro Student</h3>
-
 <p align="center">
-  Passionate about coding smart, fun and useful things. Always learning, always experimenting.
+  <img src="https://your-banner-link-here.com/banner.png" alt="Banner" style="width:100%; border-radius:10px;">
 </p>
 
-<hr/>
-
-<h2>⚙️ What I Build</h2>
-<ul>
-  <li>🤖 <strong>Discord Bots</strong></li>
-  <ul>
-    <li>🧬 Pokédex bot with password generator</li>
-    <li>🌫️ Air Quality bot (API currently down)</li>
-    <li>📸 AI bot that detects <em>pigeon vs sparrow</em> in images</li>
-  </ul>
-  <li>📚 <strong>Educational Tools</strong></li>
-  <ul>
-    <li>💼 Economics dictionary</li>
-    <li>🔐 Password generator</li>
-  </ul>
-  <li>🎨 <strong>Fun Stuff</strong></li>
-  <ul>
-    <li>😂 Meme webpage</li>
-  </ul>
-</ul>
-
-<h2>📚 Currently Learning</h2>
-<ul>
-  <li>Python OOP & APIs</li>
-  <li>Automation & file systems</li>
-  <li>AI basics & image classification</li>
-  <li>Git & open-source workflows</li>
-</ul>
-
-<h2>🚀 Goals</h2>
-<ul>
-  <li>Master full-stack development</li>
-  <li>Contribute to open-source</li>
-  <li>Build a personal portfolio</li>
-</ul>
-
-<hr/>
-
-<blockquote>
-  <p><strong>“Building bots, breaking limits — AI & chaos in every line.”</strong></p>
-</blockquote>
+<h1 align="center">Hi 👋, I'm Medi</h1>
+<h3 align="center">🐍 Python Developer | 16 y/o | Kodland Pro Student</h3>
 
 <p align="center">
-  🌐 Let's connect! Check my repos and feel free to reach out.  
+  Passionate about coding tools, bots, and creative projects.<br>
+  Currently studying programming in high school & advancing through <strong>Kodland’s Python Pro</strong>.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Projects-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🔧 Projects Highlights
+
+- 🤖 **Discord Bots**:
+  - Pokédex bot with password generator
+  - AI bot to detect pigeon 🕊️ vs sparrow 🐦 in images
+  - Air Quality bot *(currently inactive due to API)*
+
+- 📚 **Learning Tools**:
+  - Economics dictionary  
+  - Random password generator  
+
+- 😂 **Fun Projects**:
+  - Meme webpage to keep things fun
+
+---
+
+## 📚 Currently Learning
+
+- Python OOP, APIs & automation  
+- Basic AI / image classification  
+- Git & collaborative coding  
+- Full-stack dev (coming soon)
+
+---
+
+## 🎯 Goals
+
+- Master backend and AI basics  
+- Create practical tools for real users  
+- Join and contribute to open-source  
+- Launch a personal portfolio
+
+---
+
+> 💬 *“Building bots, breaking limits — AI & chaos in every line.”*
+
+---
+
+<p align="center">
+  Made with 💻 by Medi — always learning, always building.
+</p>
