@@ -1,56 +1,45 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/vexselxd/banner/blob/main/%40.png" alt="Banner" style="width:100%; border-radius:10px;">
+  <img src="https://github.com/vexselxd/banner/blob/main/%40.png" alt="GitHub Banner" style="width:100%; border-radius:10px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">🐍 Python Developer | 16 y/o | Kodland Pro Student</h3>
+<h1 align="center">Hi 👋, I'm Medi</h1>
+<h3 align="center">🐍 16 y/o Python Developer | Kodland Pro Student</h3>
 
 <p align="center">
-  Passionate about coding tools, bots, and creative projects.<br>
-  Currently studying programming in high school & advancing through <strong>Kodland’s Python Pro</strong>.
+  I build Discord bots, AI tools, and fun experiments.  
+  Passionate about learning and sharing through code.
+</p>
+
+---
+
+### ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=radical" alt="Chris's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Projects-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔧 Projects Highlights
+### 📡 Connect With Me
 
-- 🤖 **Discord Bots**:
-  - Pokédex bot with password generator
-  - AI bot to detect pigeon 🕊️ vs sparrow 🐦 in images
-  - Air Quality bot *(currently inactive due to API)*
-
-- 📚 **Learning Tools**:
-  - Economics dictionary  
-  - Random password generator  
-
-- 😂 **Fun Projects**:
-  - Meme webpage to keep things fun
+<p align="center">
+  <a href="https://www.instagram.com/medix_xd/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/elwey_xd123" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+> 💬 *“Building bots, breaking limits — AI & chaos in every line.”*
 
-- Python OOP, APIs & automation  
-- Basic AI / image classification  
-- Git & collaborative coding  
-- Full-stack dev (coming soon)
-
----
-
-## 🎯 Goals
-
-- Master backend and AI basics  
-- Create practical tools for real users  
-- Join and contribute to open-source  
-- Launch a personal portfolio
 
 ---
 
