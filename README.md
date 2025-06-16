@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://your-banner-link-here.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;"/>
 
-<h1 align="center">👋 Hi, I'm Medi!</h1>
+<h1 align="center">👋 Hi, I'm Chris!!</h1>
 <h3 align="center">🐍 16 y/o Python Developer | Kodland Pro Student</h3>
 
 <p align="center">
