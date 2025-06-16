@@ -79,13 +79,18 @@
 
 ---
 
-### 🎯 Goals
+### 🎯 Goals & Milestones
+- ✅ Complete Kodland Python Basics course with solid fundamentals
 
-- 💡 Master Python and back-end dev  
-- 🤝 Collaborate on open-source projects  
-- 🧠 Learn machine learning fundamentals  
-- 🌐 Build a personal developer portfolio  
-- 💥 Become a certified Python developer
+- 🚀 Advance through Kodland Python Pro, focusing on real-world projects
+
+- 🧪 Build more complex AI and Discord bot integrations
+
+- 🧠 Strengthen knowledge in OOP, APIs, and automation
+
+- 🧰 Apply what I learn in personal and open-source projects
+
+- 📚 Keep growing as a developer while completing my high school / 11th grade / junior year programming diploma
 
 ---
 
