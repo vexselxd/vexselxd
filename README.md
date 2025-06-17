@@ -102,6 +102,8 @@
   </a>
   <a href="https://discord.com/users/elwey_xd123" target="_blank">
     <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=red"/>
+  <a href="https://www.tiktok.com/@donix_xd" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-ffffff?style=for-the-badge&logo=tiktok&logoColor=red"/>
   </a>
 </p>
 
