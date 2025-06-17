@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://github.com/vexselxd/banner/blob/main/%40.png" alt="GitHub Banner" style="width:100%; border-radius:12px;">
 </p>
@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 High school programming student  
+- 🎓 High school / 11th grade / junior programming student  
 - ✅ Completed <strong>Kodland Python Basics</strong>  
 - 🚀 Currently taking <strong>Kodland Python Pro</strong>  
 - 💬 Native Spanish speaker, learning English through coding  
