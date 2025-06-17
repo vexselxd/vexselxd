@@ -3,7 +3,7 @@
   <img src="https://github.com/vexselxd/banner/blob/main/%40.png" alt="GitHub Banner" style="width:100%; border-radius:12px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Medi</h1>
+<h1 align="center">Hi 👋, I'm Chrisi</h1>
 <h3 align="center">🐍 16 y/o Python Developer | Kodland Pro Student</h3>
 
 <p align="center">
