@@ -73,10 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=default&title_color=red&text_color=000000&bg_color=ffffff" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&theme=default&date_format=M%20j%5B%2C%20Y%5D&ring=red&fire=red&currStreakLabel=red&sideNums=000000&sideLabels=000000&dates=000000&background=ffffff" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 🎯 Goals & Milestones
@@ -91,7 +87,21 @@
 - 🧰 Apply what I learn in personal and open-source projects
 
 - 📚 Keep growing as a developer while completing my high school / 11th grade / junior year programming diploma
+---
 
+### 📜 Certificates
+
+<a href="https://github.com/vexselxd/Certificates/blob/main/Untitled%20design.jpg" target="_blank">
+  <img src="https://img.shields.io/badge/English%20Certificate%20(Intermediate)-ffffff?style=for-the-badge&logo=verizon&logoColor=red"/>
+</a>
+<a href="https://github.com/vexselxd/Certificates/blob/main/Graduado!.png" target="_blank">
+  <img src="https://img.shields.io/badge/Kodland%20Python%20Certificate-ffffff?style=for-the-badge&logo=python&logoColor=red"/>
+</a>
+
+---
+
+### 📜 Diplomas
+- in progress
 ---
 
 ### 🔗 Connect With Me
@@ -107,7 +117,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <strong>“Building bots, breaking limits — AI & chaos in every line.”</strong>
