@@ -62,15 +62,27 @@
 - Git workflows and collaborative dev
 
 ---
+<h2 align="center">📊 GitHub Stats & Developer Insights</h2>
 
-### 📊 GitHub Stats
-
+<!-- Fila 1 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=default&title_color=red&icon_color=red&text_color=000000&bg_color=ffffff" alt="Medi GitHub Stats"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=default&title_color=red&icon_color=red&text_color=000000&bg_color=ffffff" alt="GitHub Stats"/>
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=default&title_color=red&text_color=000000&bg_color=ffffff" alt="Top Languages"/>
 </p>
 
+<!-- Fila 2 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=default&title_color=red&text_color=000000&bg_color=ffffff" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&theme=default&ring=red&fire=red&currStreakLabel=red&sideNums=000000&sideLabels=000000&dates=000000&background=ffffff" alt="Streak Stats"/>
+
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=default" alt="Most Active Times"/>
+</p>
+
+<!-- Fila 3 -->
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexselxd&theme=default" alt="Contribution Calendar"/>
+
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexselxd&theme=default" alt="Repos by Language"/>
 </p>
 
 ---
