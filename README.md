@@ -119,7 +119,7 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/medix_xd" target="_blank">
+  <a href="https://www.instagram.com/vexselxd/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=red"/>
   </a>
   <a href="https://discord.com/users/elwey_xd123" target="_blank">
