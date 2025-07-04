@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 High school / 11th grade / junior programming student  
+- 🎓 High school / 10th grade / junior programming student  
 - ✅ Completed <strong>Kodland Python Basics</strong>  
 - 🚀 Currently taking <strong>Kodland Python Pro</strong>  
 - 💬 Native Spanish speaker, learning English through coding  
