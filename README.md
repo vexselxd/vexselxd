@@ -64,21 +64,21 @@
 ---
 <h2 align="center">📊 GitHub Stats & Developer Insights</h2>
 
-<!-- Fila 1 -->
+
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=default&title_color=red&icon_color=red&text_color=000000&bg_color=ffffff" alt="GitHub Stats"/>
 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=default&title_color=red&text_color=000000&bg_color=ffffff" alt="Top Languages"/>
 </p>
 
-<!-- Fila 2 -->
+
 <p align="center">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&theme=default&ring=red&fire=red&currStreakLabel=red&sideNums=000000&sideLabels=000000&dates=000000&background=ffffff" alt="Streak Stats"/>
 
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=default" alt="Most Active Times"/>
 </p>
 
-<!-- Fila 3 -->
+
 <p align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexselxd&theme=default" alt="Contribution Calendar"/>
 
@@ -90,7 +90,7 @@
 ### 🎯 Goals & Milestones
 - ✅ Complete Kodland Python Basics course with solid fundamentals
 
-- 🚀 Advance through Kodland Python Pro, focusing on real-world projects
+- ✅ Advance through Kodland Python Pro
 
 - 🧪 Build more complex AI and Discord bot integrations
 
@@ -106,8 +106,11 @@
 <a href="https://github.com/vexselxd/Certificates/blob/main/Untitled%20design.jpg" target="_blank">
   <img src="https://img.shields.io/badge/English%20Certificate%20(Intermediate)-ffffff?style=for-the-badge&logo=verizon&logoColor=red"/>
 </a>
-<a href="https://github.com/vexselxd/Certificates/blob/main/Graduado!.png" target="_blank">
+<a href="https://github.com/vexselxd/Certificates/blob/main/a51a0768-df67-48cc-9bab-fa9b6937cc27-international.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Kodland%20Python%20Certificate-ffffff?style=for-the-badge&logo=python&logoColor=red"/>
+</a>
+<a href="https://github.com/vexselxd/Certificates/blob/main/a1c64b7f-f03e-4559-80e7-9db4b5b8d268-international.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Kodland%20Python%20Certificate(pro)-ffffff?style=for-the-badge&logo=python&logoColor=red"/>
 </a>
 
 ---
