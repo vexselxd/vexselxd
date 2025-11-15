@@ -17,7 +17,7 @@
 
 - 🎓 High school / 10th grade / junior programming student  
 - ✅ Completed <strong>Kodland Python Basics</strong>  
-- 🚀 Currently taking <strong>Kodland Python Pro</strong>  
+- ✅ Completed <strong>Kodland Python Pro</strong>  
 - 💬 Native Spanish speaker, learning English through coding  
 - 🧪 Passion for Discord bots, image AI, APIs & creative projects
 
