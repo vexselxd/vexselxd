@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">🐍 16 y/o Python Developer | Kodland Pro Student</h3>
+<h3 align="center">🐍 17 y/o Python Developer | Kodland Pro Student</h3>
 
 <p align="center">
   A passionate young developer focused on bots, automation, and AI.<br>
@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 High school / 10th grade / junior programming student  
+- 🎓 Senior / junior programming student  
 - ✅ Completed <strong>Kodland Python Basics</strong>  
 - ✅ Completed <strong>Kodland Python Pro</strong>  
 - 💬 Native Spanish speaker, learning English through coding  
