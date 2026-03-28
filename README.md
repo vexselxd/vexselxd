@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://github.com/vexselxd/banner/blob/main/banner.png" alt="GitHub Banner" style="width:100%; border-radius:16px; border: 2px solid #f5c842;">
+<img src="https://raw.githubusercontent.com/vexselxd/vexselxd/main/banner.svg" width="100%"/>
 
 <br><br>
 
