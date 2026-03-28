@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://raw.githubusercontent.com/vexselxd/vexselxd/main/banner.svg" width="100%"/>
+<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" width="100%"/>
 
 <br><br>
 
