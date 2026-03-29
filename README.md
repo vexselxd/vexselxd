@@ -1,35 +1,34 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/banner.svg" alt="Chris — Python Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/banner.svg" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+<br/>
 
-<div align="center">
+<img align="right" width="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc3dWZvaHJtcjZwNjdjNzl5bjdobHdxZGZoYXN4dDZtdzFteHVwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
-### ✦ &nbsp; Christopher &nbsp; · &nbsp; 17 y/o &nbsp; · &nbsp; Guatemala &nbsp; ✦
-**Python Developer &nbsp;|&nbsp; Bot Engineer &nbsp;|&nbsp; Game Developer in Training**
+### ✦ &nbsp; Christopher &nbsp;·&nbsp; 17 y/o &nbsp;·&nbsp; Guatemala
+
+**Python Developer &nbsp;|&nbsp; Bot Engineer &nbsp;|&nbsp; Game Dev in Training**
 
 *"Building bots, breaking limits — AI & chaos in every line."*
 
-</div>
-
-<img src="https://github.com/vexselxd/banner/blob/main/divider.svg" width="100%"/>
-
-## &nbsp; About Me
-
-I'm a young developer passionate about automation, AI, and creative coding. I build tools that are useful, fast, and occasionally chaotic — from Discord bots to 2D games.
+I'm a young developer passionate about automation, AI, and creative coding.
+I build tools that are useful, fast, and occasionally chaotic —
+from Discord bots to 2D games.
 
 | | |
 |---|---|
-| 🎓 | Programming student at **Colegio Continental Americano** |
-| 🏅 | Completed **Kodland Python Basics** & **Python Pro** |
-| 🌎 | Native Spanish speaker, learning English through code |
-| 🎮 | Building a **2D game in Unity** as a side project |
-| 🤖 | Focused on bots, image AI, APIs & automation |
+| 🎓 | **Colegio Continental Americano** — programming student |
+| 🏅 | Certified in **Kodland Python Basics** & **Python Pro** |
+| 🌎 | Native Spanish speaker · growing through code |
+| 🎮 | Building a **2D game in Unity** on the side |
+| 🤖 | Bots · image AI · APIs · automation |
 
-<img src="https://github.com/vexselxd/banner/blob/main/divider.svg" width="100%"/>
+<br clear="right"/>
+
+---
 
 ## &nbsp; Tech Stack
 
@@ -46,9 +45,11 @@ I'm a young developer passionate about automation, AI, and creative coding. I bu
 
 </div>
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+---
 
 ## &nbsp; Projects
+
+<img align="right" width="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNjbXZqcW52aHEwbzY1ZzJ6aTByMmduZXVxZ3ByMHJlbHdkMzYyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 #### 🤖 &nbsp; Discord Bots
 
@@ -66,7 +67,9 @@ I'm a young developer passionate about automation, AI, and creative coding. I bu
 | 🔐 **Password Generator** | Cryptographically strong password creator | ✅ Public |
 | 🖼️ **Meme Page** | Static content hosting experiment | ✅ Public |
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+<br clear="right"/>
+
+---
 
 ## &nbsp; Currently Learning
 
@@ -80,21 +83,21 @@ roadmap = {
 }
 ```
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+---
 
 ## &nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=transparent&title_color=f5c842&icon_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=transparent&title_color=f5c842&icon_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=transparent&title_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=transparent&title_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a"/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&background=0a0a2e&border=2a3a7a&ring=f5c842&fire=f5c842&currStreakLabel=f5c842&sideNums=a0b8e8&sideLabels=a0b8e8&dates=a0b8e8&currStreakNum=e8f0ff" alt="Streak Stats"/>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&background=0a0a2e&border=2a3a7a&ring=f5c842&fire=f5c842&currStreakLabel=f5c842&sideNums=a0b8e8&sideLabels=a0b8e8&dates=a0b8e8&currStreakNum=e8f0ff"/>
 &nbsp;
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=github_dark" alt="Most Active Times"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=github_dark"/>
 
 <br/><br/>
 
@@ -106,38 +109,36 @@ roadmap = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+---
 
-## &nbsp; Milestones
+## &nbsp; Milestones &nbsp;·&nbsp; Certificates
+
+<img align="right" width="160" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk4Z251NDdlcGhkMGlzdjlxeGQ5YTkwNHp1cnBoaGhndXE2Mmh5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+
+**Progress**
 
 - ✅ &nbsp; Kodland Python Basics — certified
 - ✅ &nbsp; Kodland Python Pro — certified
 - ✅ &nbsp; Built and deployed 3+ Discord bots
-- 🔄 &nbsp; Deepening OOP, APIs & automation skills
+- 🔄 &nbsp; Deepening OOP, APIs & automation
 - 🔄 &nbsp; First complete Unity 2D prototype
-- 🔄 &nbsp; High school programming diploma — in progress
+- 🔄 &nbsp; High school programming diploma
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
-
-## &nbsp; Certificates
-
-<div align="center">
+**Certificates**
 
 <a href="https://github.com/vexselxd/Certificates/blob/main/Untitled%20design.jpg">
-  <img src="https://img.shields.io/badge/English_Certificate_(Intermediate)-0a0a2e?style=for-the-badge&logo=verizon&logoColor=f5c842"/>
+  <img src="https://img.shields.io/badge/English_(Intermediate)-0a0a2e?style=flat-square&logo=verizon&logoColor=f5c842"/>
 </a>
-&nbsp;
 <a href="https://github.com/vexselxd/Certificates/blob/main/a51a0768-df67-48cc-9bab-fa9b6937cc27-international.pdf">
-  <img src="https://img.shields.io/badge/Kodland_Python_Basics-0a0a2e?style=for-the-badge&logo=python&logoColor=f5c842"/>
+  <img src="https://img.shields.io/badge/Kodland_Python_Basics-0a0a2e?style=flat-square&logo=python&logoColor=f5c842"/>
 </a>
-&nbsp;
 <a href="https://github.com/vexselxd/Certificates/blob/main/a1c64b7f-f03e-4559-80e7-9db4b5b8d268-international.pdf">
-  <img src="https://img.shields.io/badge/Kodland_Python_Pro-0a0a2e?style=for-the-badge&logo=python&logoColor=f5c842"/>
+  <img src="https://img.shields.io/badge/Kodland_Python_Pro-0a0a2e?style=flat-square&logo=python&logoColor=f5c842"/>
 </a>
 
-</div>
+<br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+---
 
 ## &nbsp; Connect
 
@@ -157,8 +158,12 @@ roadmap = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+---
 
 <div align="center">
-  <sub>✦ &nbsp; dancing between logic and creativity, one commit at a time &nbsp; ✦</sub>
+
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+
+<sub>✦ &nbsp; dancing between logic and creativity, one commit at a time &nbsp; ✦</sub>
+
 </div>
