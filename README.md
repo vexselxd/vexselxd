@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" alt="Chris — Python Developer" width="100%"/>
-
-<br/>
-
-<img src="https://github.com/vexselxd/banner/blob/main/deco.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/banner.svg" alt="Chris — Python Developer" width="100%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -19,7 +15,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; About Me
 
@@ -33,7 +29,7 @@ I'm a young developer passionate about automation, AI, and creative coding. I bu
 | 🎮 | Building a **2D game in Unity** as a side project |
 | 🤖 | Focused on bots, image AI, APIs & automation |
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; Tech Stack
 
@@ -50,7 +46,7 @@ I'm a young developer passionate about automation, AI, and creative coding. I bu
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; Projects
 
@@ -70,7 +66,7 @@ I'm a young developer passionate about automation, AI, and creative coding. I bu
 | 🔐 **Password Generator** | Cryptographically strong password creator | ✅ Public |
 | 🖼️ **Meme Page** | Static content hosting experiment | ✅ Public |
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; Currently Learning
 
@@ -84,7 +80,7 @@ roadmap = {
 }
 ```
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; GitHub Stats
 
@@ -110,7 +106,7 @@ roadmap = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; Milestones
 
@@ -121,7 +117,7 @@ roadmap = {
 - 🔄 &nbsp; First complete Unity 2D prototype
 - 🔄 &nbsp; High school programming diploma — in progress
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; Certificates
 
@@ -141,7 +137,7 @@ roadmap = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 ## &nbsp; Connect
 
@@ -161,7 +157,7 @@ roadmap = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
 
 <div align="center">
   <sub>✦ &nbsp; dancing between logic and creativity, one commit at a time &nbsp; ✦</sub>
