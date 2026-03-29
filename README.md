@@ -1,170 +1,171 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" width="100%"/>
+<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" width="100%"
 
-<br><br>
+<br/>
 
-<!-- TITLE -->
-<h1>
-  ✦&nbsp;&nbsp; hi, i'm chris &nbsp;&nbsp;✦
-</h1>
-
-<h3>
-  🌊 &nbsp; 17 y/o · python developer · bot crafter · creative coder
-</h3>
-
-<p><em>"Building bots, breaking limits — AI & chaos in every line."</em></p>
-
-<br>
-
-<!-- GOLDEN DIVIDER -->
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=vexselxd&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
-<br>
+---
 
-## ✨ &nbsp; About Me
+<div align="center">
 
-> A passionate young developer dancing between bots, automation, and AI —  
-> building things that are useful, fun, and occasionally chaotic.
+### ✦ &nbsp; Christopher &nbsp; · &nbsp; 17 y/o &nbsp; · &nbsp; Guatemala &nbsp; ✦
+**Python Developer &nbsp;|&nbsp; Bot Engineer &nbsp;|&nbsp; Game Developer in Training**
 
-- 🎓 &nbsp; Programming student at **Colegio Continental Americano**
-- ✅ &nbsp; Completed **Kodland Python Basics** & **Python Pro**
-- 💬 &nbsp; Native Spanish speaker · growing through code
-- 🤖 &nbsp; Discord bots · image AI · APIs · creative projects
-- 🎮 &nbsp; Building a **2D game in Unity** on the side
+*"Building bots, breaking limits — AI & chaos in every line."*
 
-<br>
+</div>
 
-## 🛠️ &nbsp; Tools & Technologies
+---
+
+## &nbsp; About Me
+
+I'm a young developer passionate about automation, AI, and creative coding. I build tools that are useful, fast, and occasionally chaotic — from Discord bots to 2D games.
+
+| | |
+|---|---|
+| 🎓 | Programming student at **Colegio Continental Americano** |
+| 🏅 | Completed **Kodland Python Basics** & **Python Pro** |
+| 🌎 | Native Spanish speaker, learning English through code |
+| 🎮 | Building a **2D game in Unity** as a side project |
+| 🤖 | Focused on bots, image AI, APIs & automation |
+
+---
+
+## &nbsp; Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0a2e?style=for-the-badge&logo=python&logoColor=f5c842)
 ![Git](https://img.shields.io/badge/Git-0a0a2e?style=for-the-badge&logo=git&logoColor=f5c842)
 ![GitHub](https://img.shields.io/badge/GitHub-0a0a2e?style=for-the-badge&logo=github&logoColor=f5c842)
-![Discord Bots](https://img.shields.io/badge/Discord_Bots-0a0a2e?style=for-the-badge&logo=discord&logoColor=f5c842)
-![API Integration](https://img.shields.io/badge/API_Integration-0a0a2e?style=for-the-badge&logo=cloudflare&logoColor=f5c842)
-![AI Projects](https://img.shields.io/badge/AI_Projects-0a0a2e?style=for-the-badge&logo=openai&logoColor=f5c842)
+![Discord.py](https://img.shields.io/badge/Discord.py-0a0a2e?style=for-the-badge&logo=discord&logoColor=f5c842)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a2e?style=for-the-badge&logo=cloudflare&logoColor=f5c842)
+![OpenAI](https://img.shields.io/badge/OpenAI-0a0a2e?style=for-the-badge&logo=openai&logoColor=f5c842)
 ![Unity](https://img.shields.io/badge/Unity-0a0a2e?style=for-the-badge&logo=unity&logoColor=f5c842)
 ![C#](https://img.shields.io/badge/C%23-0a0a2e?style=for-the-badge&logo=csharp&logoColor=f5c842)
 
 </div>
 
-<br>
+---
 
-## 🌟 &nbsp; Projects
+## &nbsp; Projects
 
-### 🤖 Discord Bots
-| Project | Description |
-|---|---|
-| 🧬 **Pokédex Bot** | Fetches Pokémon data · includes password generator |
-| 📷 **AI Image Bot** | Classifies user images — pigeon or sparrow? |
-| 🌫️ **Air Quality Bot** | Under maintenance — API shutdown |
+#### 🤖 &nbsp; Discord Bots
 
-### 📚 Tools & Fun
-| Project | Description |
-|---|---|
-| 📖 **Economics Dictionary** | Open-source glossary for economic terms |
-| 🔐 **Password Generator** | Strong, random password creator |
-| 🖼️ **Meme Page** | Built for laughs & static hosting tests |
+| Project | Stack | Status |
+|---|---|---|
+| 🧬 **Pokédex Bot** | Python · REST API | ✅ Active |
+| 📷 **AI Image Classifier** | Python · CV | ✅ Active |
+| 🌫️ **Air Quality Bot** | Python · IoT API | 🔧 Maintenance |
 
-<br>
+#### 🛠️ &nbsp; Tools & Experiments
 
-## 📖 &nbsp; Currently Learning
+| Project | Description | Status |
+|---|---|---|
+| 📖 **Economics Dictionary** | Open-source glossary for economic terms | ✅ Public |
+| 🔐 **Password Generator** | Cryptographically strong password creator | ✅ Public |
+| 🖼️ **Meme Page** | Static content hosting experiment | ✅ Public |
 
+---
+
+## &nbsp; Currently Learning
+
+```python
+roadmap = {
+    "core"    : ["OOP in Python", "Clean code & best practices"],
+    "backend" : ["REST APIs", "External data sources", "Automation"],
+    "ai"      : ["Image classification", "Basic AI logic"],
+    "gamedev" : ["Unity 2D", "C# scripting", "Game architecture"],
+    "devops"  : ["Git workflows", "Collaborative development"],
+}
 ```
-  ○  Object-Oriented Programming in Python
-  ○  Working with APIs and external data
-  ○  Image classification & basic AI logic
-  ○  Clean code & best practices
-  ○  Git workflows and collaborative dev
-  ○  Unity & C# for 2D game development
-```
 
-<br>
+---
 
-## 📊 &nbsp; GitHub Stats
+## &nbsp; GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=transparent&title_color=f5c842&icon_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=f5c842" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=transparent&title_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=f5c842" alt="Top Languages"/>
-
-<br><br>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&theme=transparent&ring=f5c842&fire=f5c842&currStreakLabel=f5c842&sideNums=a0b8e8&sideLabels=a0b8e8&dates=a0b8e8&background=0a0a2e&border=f5c842" alt="Streak Stats"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=github_dark" alt="Most Active Times"/>
-
-<br><br>
-
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexselxd&theme=github_dark" alt="Contribution Calendar"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=transparent&title_color=f5c842&icon_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexselxd&theme=github_dark" alt="Repos by Language"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=transparent&title_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a" alt="Top Languages"/>
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&background=0a0a2e&border=2a3a7a&ring=f5c842&fire=f5c842&currStreakLabel=f5c842&sideNums=a0b8e8&sideLabels=a0b8e8&dates=a0b8e8&currStreakNum=e8f0ff" alt="Streak Stats"/>
+&nbsp;
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=github_dark" alt="Most Active Times"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vexselxd/vexselxd/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vexselxd/vexselxd/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/vexselxd/vexselxd/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
-<br>
+---
 
-## 🎯 &nbsp; Goals & Milestones
+## &nbsp; Milestones
 
-- ✅ &nbsp; Complete Kodland Python Basics with solid fundamentals
-- ✅ &nbsp; Advance through Kodland Python Pro
-- 🔄 &nbsp; Build more complex AI and Discord bot integrations
-- 🔄 &nbsp; Strengthen knowledge in OOP, APIs, and automation
-- 🔄 &nbsp; Finish my 2D Unity game prototype
-- 🔄 &nbsp; Complete my high school programming diploma
+- ✅ &nbsp; Kodland Python Basics — certified
+- ✅ &nbsp; Kodland Python Pro — certified
+- ✅ &nbsp; Built and deployed 3+ Discord bots
+- 🔄 &nbsp; Deepening OOP, APIs & automation skills
+- 🔄 &nbsp; First complete Unity 2D prototype
+- 🔄 &nbsp; High school programming diploma — in progress
 
-<br>
+---
 
-## 📜 &nbsp; Certificates
+## &nbsp; Certificates
 
 <div align="center">
 
-<a href="https://github.com/vexselxd/Certificates/blob/main/Untitled%20design.jpg" target="_blank">
+<a href="https://github.com/vexselxd/Certificates/blob/main/Untitled%20design.jpg">
   <img src="https://img.shields.io/badge/English_Certificate_(Intermediate)-0a0a2e?style=for-the-badge&logo=verizon&logoColor=f5c842"/>
 </a>
-<a href="https://github.com/vexselxd/Certificates/blob/main/a51a0768-df67-48cc-9bab-fa9b6937cc27-international.pdf" target="_blank">
+&nbsp;
+<a href="https://github.com/vexselxd/Certificates/blob/main/a51a0768-df67-48cc-9bab-fa9b6937cc27-international.pdf">
   <img src="https://img.shields.io/badge/Kodland_Python_Basics-0a0a2e?style=for-the-badge&logo=python&logoColor=f5c842"/>
 </a>
-<a href="https://github.com/vexselxd/Certificates/blob/main/a1c64b7f-f03e-4559-80e7-9db4b5b8d268-international.pdf" target="_blank">
+&nbsp;
+<a href="https://github.com/vexselxd/Certificates/blob/main/a1c64b7f-f03e-4559-80e7-9db4b5b8d268-international.pdf">
   <img src="https://img.shields.io/badge/Kodland_Python_Pro-0a0a2e?style=for-the-badge&logo=python&logoColor=f5c842"/>
 </a>
 
 </div>
 
-<br>
+---
 
-## 🔗 &nbsp; Connect With Me
+## &nbsp; Connect
 
 <div align="center">
 
-<a href="https://www.instagram.com/vexselxd/" target="_blank">
+<a href="https://www.instagram.com/vexselxd/">
   <img src="https://img.shields.io/badge/Instagram-0a0a2e?style=for-the-badge&logo=instagram&logoColor=f5c842"/>
 </a>
-<a href="https://discord.com/users/elwey_xd123" target="_blank">
+&nbsp;
+<a href="https://discord.com/users/elwey_xd123">
   <img src="https://img.shields.io/badge/Discord-0a0a2e?style=for-the-badge&logo=discord&logoColor=f5c842"/>
 </a>
-<a href="https://www.tiktok.com/@donix_xd" target="_blank">
+&nbsp;
+<a href="https://www.tiktok.com/@donix_xd">
   <img src="https://img.shields.io/badge/TikTok-0a0a2e?style=for-the-badge&logo=tiktok&logoColor=f5c842"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-*✦ dancing between logic and creativity, one commit at a time ✦*
-
+  <sub>✦ &nbsp; dancing between logic and creativity, one commit at a time &nbsp; ✦</sub>
 </div>
+
