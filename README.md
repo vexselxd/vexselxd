@@ -29,7 +29,7 @@ role:      Python Developer · Bot Engineer · Game Dev in Training
 school:    Colegio Continental Americano
 status:    Open to collaborations & open source contributions
 languages: [ Spanish (native), English (intermediate) ]
-interests: [ Bots, AI, Game Dev, Automation, Open Source ]
+interests: [ Bots, AI, Machine Learning, Game Dev, Automation, Open Source ]
 quote:     "Building bots, breaking limits — AI & chaos in every line."
 ```
 
@@ -63,6 +63,10 @@ quote:     "Building bots, breaking limits — AI & chaos in every line."
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+&nbsp;
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+&nbsp;
+[![Google Colab](https://skillicons.dev/icons?i=googlecloud)](https://colab.research.google.com/)
 
 ### Currently Exploring
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
@@ -77,7 +81,7 @@ quote:     "Building bots, breaking limits — AI & chaos in every line."
 
 ![Python](https://img.shields.io/badge/Python-0a0a2e?style=flat-square&logo=python&logoColor=f5c842)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a2e?style=flat-square&logo=cloudflare&logoColor=f5c842)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0a0a2e?style=flat-square&logo=openai&logoColor=f5c842)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a2e?style=flat-square&logo=tensorflow&logoColor=f5c842)
 ![discord.py](https://img.shields.io/badge/discord.py-0a0a2e?style=flat-square&logo=discord&logoColor=f5c842)
 ![JSON](https://img.shields.io/badge/JSON-0a0a2e?style=flat-square&logo=json&logoColor=f5c842)
 ![Markdown](https://img.shields.io/badge/Markdown-0a0a2e?style=flat-square&logo=markdown&logoColor=f5c842)
@@ -96,8 +100,9 @@ quote:     "Building bots, breaking limits — AI & chaos in every line."
 
 | &nbsp; | Project | Description | Stack | Status |
 |:---:|---|---|---|:---:|
-| 🧬 | **[Pokédex Bot](https://github.com/vexselxd)** | Fetches full Pokémon data + password generator | Python · PokéAPI | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&logoColor=f5c842&color=0a3a0a) |
+| 🧬 | **[Pokédex Bot](https://github.com/vexselxd)** | Fetches full Pokémon data + password generator | Python · PokéAPI | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a) |
 | 📷 | **[AI Image Classifier](https://github.com/vexselxd)** | Detects if a user image is a pigeon or sparrow | Python · CV | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a) |
+| 🤖 | **[AI Writing Assistant Bot](https://github.com/vexselxd)** | Helps craft phrases & complete texts on demand | Python · TensorFlow | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a) |
 | 🌫️ | **[Air Quality Bot](https://github.com/vexselxd)** | Real-time air quality data for any city | Python · IoT API | ![maintenance](https://img.shields.io/badge/-maintenance-0a0a2e?style=flat-square&color=3a2a0a) |
 
 ### 🛠️ &nbsp; Tools & Experiments
@@ -192,7 +197,7 @@ current_focus = "Becoming a well-rounded developer, one commit at a time. ✦"
 | 🔄 | Deepening knowledge in **OOP, APIs & automation** | 2025–Present |
 | 🔄 | Releasing first **Unity 2D prototype** | 2026 |
 | 🔄 | Completing **Senior Programming Diploma** | 2026 |
-| 🔭 | Contributing to **open source projects** | 2026+ 
+| 🔭 | Contributing to **open source projects** | 2026+ |
 </div>
 
 <br/>
