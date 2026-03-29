@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+<img src="https://github.com/vexselxd/banner/blob/main/divider.svg" width="100%"/>
 
 ## &nbsp; About Me
 
@@ -29,7 +29,7 @@ I'm a young developer passionate about automation, AI, and creative coding. I bu
 | 🎮 | Building a **2D game in Unity** as a side project |
 | 🤖 | Focused on bots, image AI, APIs & automation |
 
-<img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
+<img src="https://github.com/vexselxd/banner/blob/main/divider.svg" width="100%"/>
 
 ## &nbsp; Tech Stack
 
