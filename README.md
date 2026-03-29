@@ -4,9 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vexselxd&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</a>
+<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" width="100%"/>
 
 </div>
 
