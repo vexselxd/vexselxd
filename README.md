@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" width="100%"/>
+<img src="https://github.com/vexselxd/banner/blob/main/deco.svg" width="100%"/>
 
 </div>
 
