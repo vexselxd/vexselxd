@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" width="100%"
+<img src="https://raw.githubusercontent.com/vexselxd/vexselxd/main/banner.svg" alt="Chris — Python Developer" width="100%"/>
 
 <br/>
 
@@ -168,4 +168,3 @@ roadmap = {
 <div align="center">
   <sub>✦ &nbsp; dancing between logic and creativity, one commit at a time &nbsp; ✦</sub>
 </div>
-
