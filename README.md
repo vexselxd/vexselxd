@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vexselxd/vexselxd/main/banner.svg" alt="Chris — Python Developer" width="100%"/>
+<img src="https://github.com/vexselxd/banner/blob/main/banner.svg" alt="Chris — Python Developer" width="100%"/>
 
 <br/>
 
