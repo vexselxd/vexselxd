@@ -226,9 +226,61 @@ current_focus = "Becoming a well-rounded developer, one commit at a time. ✦"
 
 ---
 
-# &nbsp; 💼 Work With Me
+# &nbsp; 💼 Hire Me — What I Build & What I Solve
 
-> Available for freelance projects, bot development, automation scripts, and collaborations.
+<br/>
+
+### 🤖 &nbsp; Custom Discord Bots
+
+> **Problem:** Your server runs on manual work — moderating, welcoming, giving roles, answering the same questions over and over.
+
+I build bots that **automate your server operations** so you focus on your community, not on babysitting it.
+
+- ✦ Welcome & role assignment systems
+- ✦ Moderation & anti-spam commands
+- ✦ Custom commands, polls, giveaways
+- ✦ API integrations (weather, games, news, anything with a public API)
+- ✦ Economy systems, leaderboards, XP/leveling
+
+---
+
+### ⚙️ &nbsp; Automation Scripts & Tools
+
+> **Problem:** You're doing the same boring task every day — copying data, downloading files, filling forms, sending messages — wasting hours you could spend elsewhere.
+
+I write **Python scripts that do it for you**, reliably and on schedule.
+
+- ✦ Web scraping & data collection
+- ✦ File organization & batch processing
+- ✦ Scheduled tasks & notifications
+- ✦ API integrations with any service that has a REST endpoint
+
+---
+
+### 🌐 &nbsp; Landing Pages & Simple Websites
+
+> **Problem:** You have a product, a service, or an idea — but no online presence to show it.
+
+I build **clean, fast, functional pages** that communicate what you do and why someone should care.
+
+- ✦ Portfolio & personal brand pages
+- ✦ Product or service landing pages
+- ✦ Static sites with HTML + CSS (no bloated frameworks, no monthly fees)
+
+---
+
+### 💬 &nbsp; Let's Work Together
+
+```python
+services = {
+    "Discord Bot"     : "Custom-built for your server's exact needs",
+    "Automation"      : "Any repetitive task → a script that handles it",
+    "Landing Page"    : "Fast, clean, no-nonsense web presence",
+}
+
+turnaround = "Fast delivery · Clear communication · Revisions included"
+contact    = "Reach out on LinkedIn, Fiverr, or Upwork ↓"
+```
 
 <div align="center">
 
