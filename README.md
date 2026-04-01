@@ -19,74 +19,97 @@
 
 ---
 
-# &nbsp; 👤 About Me
+<div align="center">
 
-```yaml
-name:      Christopher
-age:       17
-location:  Guatemala City, Guatemala 🌎
-role:      Python Developer · Bot Engineer · Game Dev in Training
-school:    Colegio Continental Americano
-status:    Open to collaborations & open source contributions
-languages: [ Spanish (native), English (intermediate) ]
-interests: [ Bots, AI, Machine Learning, Game Dev, Automation, Open Source ]
-quote:     "Building bots, breaking limits — AI & chaos in every line."
-```
+# I turn ideas into working software.
 
-> I'm a passionate young developer who lives at the intersection of creativity and code.
-> I build things that are useful, fast, and occasionally chaotic —
-> from Discord bots that breathe life into servers, to 2D games built from scratch.
-> Every project is a new wave to ride. 🌊
+### Discord bots · Automation scripts · API integrations · Landing pages
+
+> Python developer based in Guatemala. I build tools that save time, automate the repetitive, and make your project actually work.
+>
+> **Available for freelance work, junior roles, and open-source collaborations.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/christopher-medinilla-03792238a">
+  <img src="https://img.shields.io/badge/↳_Hire_Me_on_LinkedIn-0a0a2e?style=for-the-badge&logo=linkedin&logoColor=f5c842"/>
+</a>
+&nbsp;
+<a href="https://es.fiverr.com/s/o8N92qG">
+  <img src="https://img.shields.io/badge/↳_Order_on_Fiverr-0a0a2e?style=for-the-badge&logo=fiverr&logoColor=f5c842"/>
+</a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~01f17573044440c11f?mp_source=share">
+  <img src="https://img.shields.io/badge/↳_Work_With_Me_on_Upwork-0a0a2e?style=for-the-badge&logo=upwork&logoColor=f5c842"/>
+</a>
+
+</div>
 
 <br/>
 
 ---
 
-# &nbsp; ⚙️ Tech Stack & Tools
+# &nbsp; 👤 About Me
 
-<div align="center">
+```yaml
+name:      Christopher Medinilla
+location:  Guatemala City, Guatemala 🌎
+role:      Python Developer · Bot Engineer · Automation Specialist
+status:    Available for freelance & junior dev opportunities
+languages: [ Spanish (native), English (intermediate) ]
+```
 
-### Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-&nbsp;
-[![CS](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-&nbsp;
-[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
+I'm a 17-year-old developer with certified Python training and a practical focus on building things that work. My projects live at the intersection of automation, APIs, and problem-solving — I don't just write code, I write code that removes friction from real workflows.
 
-### Dev Tools
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-&nbsp;
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-&nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
-&nbsp;
-[![Google Colab](https://skillicons.dev/icons?i=googlecloud)](https://colab.research.google.com/)
-
-### Currently Exploring
-[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
-&nbsp;
-[![Roblox Studio](https://skillicons.dev/icons?i=lua&label=Roblox+Studio)](https://www.roblox.com/create)
-
-</div>
+If you need something built fast, built clean, and built to actually solve your problem — let's talk.
 
 <br/>
 
-<div align="center">
+---
 
-![Python](https://img.shields.io/badge/Python-0a0a2e?style=flat-square&logo=python&logoColor=f5c842)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a2e?style=flat-square&logo=cloudflare&logoColor=f5c842)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a2e?style=flat-square&logo=tensorflow&logoColor=f5c842)
-![discord.py](https://img.shields.io/badge/discord.py-0a0a2e?style=flat-square&logo=discord&logoColor=f5c842)
-![JSON](https://img.shields.io/badge/JSON-0a0a2e?style=flat-square&logo=json&logoColor=f5c842)
-![Markdown](https://img.shields.io/badge/Markdown-0a0a2e?style=flat-square&logo=markdown&logoColor=f5c842)
+# &nbsp; 🔧 What I Build
 
-</div>
+<br/>
+
+### 🤖 &nbsp; Discord Bots
+
+Your community deserves automation. I build bots that handle the work your moderators shouldn't have to — so your server runs itself while you focus on growth.
+
+- ✦ Moderation, welcome flows & role automation
+- ✦ Economy systems, XP/leveling & leaderboards
+- ✦ Custom commands, polls & giveaways
+- ✦ Live data integrations — weather, games, news, any public API
+
+---
+
+### ⚙️ &nbsp; Automation & Scripting
+
+Repetitive tasks are a tax on your time. I write Python scripts that eliminate them — reliably, on schedule, without you touching a thing.
+
+- ✦ Web scraping & structured data collection
+- ✦ File processing, organization & batch operations
+- ✦ Scheduled tasks, alerts & notifications
+- ✦ REST API integrations with any service that exposes an endpoint
+
+---
+
+### 🔗 &nbsp; API Integrations
+
+Need two services talking to each other? I connect external APIs to your projects, bots, or scripts — clean, documented, and maintainable.
+
+- ✦ Third-party API consumption & data transformation
+- ✦ Webhook handling & event-driven scripts
+- ✦ JSON parsing, formatting & pipeline design
+
+---
+
+### 🌐 &nbsp; Landing Pages & Static Sites
+
+No CMS bloat, no monthly fees. Just fast, clean HTML/CSS pages that communicate what you do and make visitors take action.
+
+- ✦ Personal portfolios & brand pages
+- ✦ Product & service landing pages
+- ✦ Static sites optimized for clarity and speed
 
 <br/>
 
@@ -98,44 +121,125 @@ quote:     "Building bots, breaking limits — AI & chaos in every line."
 
 ### 🤖 &nbsp; Discord Bots
 
-| &nbsp; | Project | Description | Stack | Status |
-|:---:|---|---|---|:---:|
-| 🧬 | **[Pokédex Bot](https://github.com/vexselxd)** | Fetches full Pokémon data + password generator | Python · PokéAPI | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a) |
-| 📷 | **[AI Image Classifier](https://github.com/vexselxd)** | Detects if a user image is a pigeon or sparrow | Python · CV | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a) |
-| 🤖 | **[AI Writing Assistant Bot](https://github.com/vexselxd)** | Helps craft phrases & complete texts on demand | Python · TensorFlow | ![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a) |
-| 🌫️ | **[Air Quality Bot](https://github.com/vexselxd)** | Real-time air quality data for any city | Python · IoT API | ![maintenance](https://img.shields.io/badge/-maintenance-0a0a2e?style=flat-square&color=3a2a0a) |
+<br/>
 
-### 🛠️ &nbsp; Tools & Experiments
+**🧬 [Pokédex Bot](https://github.com/vexselxd)**
+Fetches complete Pokémon data on demand via PokéAPI — stats, types, moves, evolutions. Includes a built-in cryptographic password generator as a secondary utility.
+`Python · discord.py · PokéAPI · REST`
+*Ideal for gaming communities and Pokémon-themed Discord servers.*
+![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a)
 
-| &nbsp; | Project | Description | Stack | Status |
-|:---:|---|---|---|:---:|
-| 📖 | **[Economics Dictionary](https://github.com/vexselxd)** | Open-source glossary of economic terms | Markdown | ![public](https://img.shields.io/badge/-public-0a0a2e?style=flat-square&color=0a1a3a) |
-| 🔐 | **[Password Generator](https://github.com/vexselxd)** | Cryptographically strong random passwords | Python | ![public](https://img.shields.io/badge/-public-0a0a2e?style=flat-square&color=0a1a3a) |
-| 🖼️ | **[Meme Page](https://github.com/vexselxd)** | Static content hosting experiment | HTML | ![public](https://img.shields.io/badge/-public-0a0a2e?style=flat-square&color=0a1a3a) |
+<br/>
+
+**📷 [AI Image Classifier Bot](https://github.com/vexselxd)**
+Accepts user-submitted images and classifies them using a computer vision model. Demonstrates real-time ML inference running live inside a Discord environment.
+`Python · discord.py · Computer Vision · TensorFlow`
+*Ideal for communities experimenting with AI tools or visual challenges.*
+![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a)
+
+<br/>
+
+**🤖 [AI Writing Assistant Bot](https://github.com/vexselxd)**
+Generates and completes text on demand — useful for drafting messages, finishing sentences, or sparking ideas. Runs language model inference through a clean command interface.
+`Python · discord.py · TensorFlow · NLP`
+*Ideal for writing communities, study servers, or content creation teams.*
+![active](https://img.shields.io/badge/-active-0a0a2e?style=flat-square&color=0a3a0a)
+
+<br/>
+
+**🌫️ [Air Quality Bot](https://github.com/vexselxd)**
+Pulls real-time air quality index data for any city worldwide and delivers it inside Discord. A clean example of live IoT API integration in a production bot.
+`Python · discord.py · IoT API`
+*Ideal for environmental awareness communities or health-focused groups.*
+![maintenance](https://img.shields.io/badge/-maintenance-0a0a2e?style=flat-square&color=3a2a0a)
+
+<br/>
+
+### 🛠️ &nbsp; Tools & Utilities
+
+<br/>
+
+**🔐 [Password Generator](https://github.com/vexselxd)**
+Generates cryptographically strong, fully random passwords with configurable length and character sets. Zero reliance on external services — runs entirely local.
+`Python · secrets module`
+*Ideal for anyone who needs secure credentials without trusting an online tool.*
+![public](https://img.shields.io/badge/-public-0a0a2e?style=flat-square&color=0a1a3a)
+
+<br/>
+
+**📖 [Economics Dictionary](https://github.com/vexselxd)**
+An open-source, structured glossary of economic terms written in clean Markdown. Built for accessibility and easy community contribution.
+`Markdown · Open Source`
+*Ideal for students, educators, and anyone building economics-related content.*
+![public](https://img.shields.io/badge/-public-0a0a2e?style=flat-square&color=0a1a3a)
+
+<br/>
 
 ### 🎮 &nbsp; Game Development
 
-| &nbsp; | Project | Description | Stack | Status |
-|:---:|---|---|---|:---:|
-| 🕹️ | **2D Game (WIP)** | Original 2D game built from scratch | Unity · C# | ![wip](https://img.shields.io/badge/-in_progress-0a0a2e?style=flat-square&color=2a0a3a) |
+<br/>
+
+**🕹️ 2D Game (WIP)**
+Original 2D game built from scratch — custom physics, collision systems, and game logic without relying on pre-built templates or engines doing the heavy lifting.
+`Unity · C# · Physics · Collision Systems`
+*Demonstrates ability to architect systems from the ground up, not just configure engines.*
+![wip](https://img.shields.io/badge/-in_progress-0a0a2e?style=flat-square&color=2a0a3a)
 
 <br/>
 
 ---
 
-# &nbsp; 📖 Currently Learning
+# &nbsp; ⚙️ Tech Stack
 
-```python
-roadmap = {
-    "core"    : ["OOP in Python", "Clean code & best practices", "Design patterns"],
-    "backend" : ["REST APIs", "External data sources", "Automation & scripting"],
-    "ai"      : ["Image classification", "Basic AI logic", "Prompt engineering"],
-    "gamedev" : ["Unity 2D", "C# scripting", "Physics & collision systems"],
-    "devops"  : ["Git workflows", "GitHub Actions", "Collaborative development"],
-}
+<div align="center">
 
-current_focus = "Becoming a well-rounded developer, one commit at a time. ✦"
-```
+### Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+&nbsp;
+[![CS](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+&nbsp;
+[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
+
+### Tools & Platforms
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+&nbsp;
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+&nbsp;
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+&nbsp;
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+
+### Currently Expanding Into
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0a2e?style=flat-square&logo=python&logoColor=f5c842)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a2e?style=flat-square&logo=cloudflare&logoColor=f5c842)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a2e?style=flat-square&logo=tensorflow&logoColor=f5c842)
+![discord.py](https://img.shields.io/badge/discord.py-0a0a2e?style=flat-square&logo=discord&logoColor=f5c842)
+![JSON](https://img.shields.io/badge/JSON-0a0a2e?style=flat-square&logo=json&logoColor=f5c842)
+![Automation](https://img.shields.io/badge/Automation-0a0a2e?style=flat-square&logo=python&logoColor=f5c842)
+
+</div>
+
+<br/>
+
+---
+
+# &nbsp; ✦ Why Work With Me
+
+- **I build for outcomes, not just output.** Every project starts with understanding what problem actually needs solving — not just what was asked for.
+- **Fast learner, practical focus.** Certified in Python Basics and Pro, and I've been shipping real projects alongside the theory.
+- **I communicate clearly.** No ghost deliveries. You'll know what's happening, when it's happening, and why.
+- **Clean code by default.** No unnecessary complexity, documented so you can maintain it long after delivery.
+- **I take small projects seriously.** Whether it's a quick script or a full bot, I treat every project like it matters — because to you, it does.
 
 <br/>
 
@@ -145,33 +249,28 @@ current_focus = "Becoming a well-rounded developer, one commit at a time. ✦"
 
 <div align="center">
 
-<!-- Row 1: General stats + Languages -->
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=vexselxd&show_icons=true&theme=transparent&title_color=f5c842&icon_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a&include_all_commits=true&count_private=true&rank_icon=github"/>
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vexselxd&layout=compact&theme=transparent&title_color=f5c842&text_color=a0b8e8&bg_color=0a0a2e&border_color=2a3a7a&langs_count=8"/>
 
 <br/><br/>
 
-<!-- Row 2: Streak + Productive time -->
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=vexselxd&background=0a0a2e&border=2a3a7a&ring=f5c842&fire=f5c842&currStreakLabel=f5c842&sideNums=a0b8e8&sideLabels=a0b8e8&dates=a0b8e8&currStreakNum=e8f0ff"/>
 &nbsp;
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vexselxd&theme=github_dark"/>
 
 <br/><br/>
 
-<!-- Row 3: Repos by language + Commits by language -->
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vexselxd&theme=github_dark"/>
 &nbsp;
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vexselxd&theme=github_dark"/>
 
 <br/><br/>
 
-<!-- Row 4: Full contribution timeline -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vexselxd&theme=github_dark" width="99%"/>
 
 <br/><br/>
 
-<!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vexselxd/vexselxd/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vexselxd/vexselxd/output/github-contribution-grid-snake.svg"/>
@@ -194,10 +293,11 @@ current_focus = "Becoming a well-rounded developer, one commit at a time. ✦"
 | ✅ | Completed **Kodland Python Pro** (Certified) | 2025 |
 | ✅ | Built and deployed **3+ Discord bots** | 2025 |
 | ✅ | Started **2D game development** with Unity & C# | 2026 |
-| 🔄 | Deepening knowledge in **OOP, APIs & automation** | 2025–Present |
-| 🔄 | Releasing first **Unity 2D prototype** | 2026 |
+| 🔄 | Deepening expertise in **OOP, APIs & automation** | 2025–Present |
 | 🔄 | Completing **Senior Programming Diploma** | 2026 |
+| 🔄 | Releasing first **Unity 2D prototype** | 2026 |
 | 🔭 | Contributing to **open source projects** | 2026+ |
+
 </div>
 
 <br/>
@@ -226,61 +326,28 @@ current_focus = "Becoming a well-rounded developer, one commit at a time. ✦"
 
 ---
 
-# &nbsp; 💼 Hire Me — What I Build & What I Solve
-
-<br/>
-
-### 🤖 &nbsp; Custom Discord Bots
-
-> **Problem:** Your server runs on manual work — moderating, welcoming, giving roles, answering the same questions over and over.
-
-I build bots that **automate your server operations** so you focus on your community, not on babysitting it.
-
-- ✦ Welcome & role assignment systems
-- ✦ Moderation & anti-spam commands
-- ✦ Custom commands, polls, giveaways
-- ✦ API integrations (weather, games, news, anything with a public API)
-- ✦ Economy systems, leaderboards, XP/leveling
-
----
-
-### ⚙️ &nbsp; Automation Scripts & Tools
-
-> **Problem:** You're doing the same boring task every day — copying data, downloading files, filling forms, sending messages — wasting hours you could spend elsewhere.
-
-I write **Python scripts that do it for you**, reliably and on schedule.
-
-- ✦ Web scraping & data collection
-- ✦ File organization & batch processing
-- ✦ Scheduled tasks & notifications
-- ✦ API integrations with any service that has a REST endpoint
-
----
-
-### 🌐 &nbsp; Landing Pages & Simple Websites
-
-> **Problem:** You have a product, a service, or an idea — but no online presence to show it.
-
-I build **clean, fast, functional pages** that communicate what you do and why someone should care.
-
-- ✦ Portfolio & personal brand pages
-- ✦ Product or service landing pages
-- ✦ Static sites with HTML + CSS (no bloated frameworks, no monthly fees)
-
----
-
-### 💬 &nbsp; Let's Work Together
+# &nbsp; 💼 Let's Build Something
 
 ```python
-services = {
-    "Discord Bot"     : "Custom-built for your server's exact needs",
-    "Automation"      : "Any repetitive task → a script that handles it",
-    "Landing Page"    : "Fast, clean, no-nonsense web presence",
-}
+available_for = [
+    "Freelance projects — small to medium scope",
+    "Junior developer opportunities",
+    "Open source collaborations",
+    "Long-term working relationships",
+]
 
-turnaround = "Fast delivery · Clear communication · Revisions included"
-contact    = "Reach out on LinkedIn, Fiverr, or Upwork ↓"
+what_to_expect = {
+    "delivery"      : "On time, no surprises",
+    "communication" : "Clear updates throughout the project",
+    "revisions"     : "Included — I want it right",
+    "documentation" : "You'll understand what I built",
+}
 ```
+
+> Have a project in mind? A repetitive task that needs a script?
+> A server that needs a bot? A page that needs to exist?
+>
+> **Reach out. I respond fast.**
 
 <div align="center">
 
@@ -309,5 +376,5 @@ contact    = "Reach out on LinkedIn, Fiverr, or Upwork ↓"
 <div align="center">
   <img src="https://raw.githubusercontent.com/vexselxd/banner/main/divider.svg" width="100%"/>
   <br/>
-  <sub>✦ &nbsp; dancing between logic and creativity, one commit at a time &nbsp; ✦</sub>
+  <sub>✦ &nbsp; built to solve problems, one commit at a time &nbsp; ✦</sub>
 </div>
