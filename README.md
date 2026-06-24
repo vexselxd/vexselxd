@@ -23,11 +23,11 @@
 
 # I turn ideas into working software.
 
-### Discord bots · Automation scripts · API integrations · Landing pages
+### Full-Stack Developer · AI-Augmented · Python · Flask · ML
 
-> Python developer based in Guatemala. I build tools that save time, automate the repetitive, and make your project actually work.
+> Developer based in Guatemala. I define the architecture, design decisions, and technical direction — AI accelerates the implementation. The result: production-ready software delivered faster, without sacrificing quality.
 >
-> **Available for freelance work, junior roles, and open-source collaborations.**
+> **Available for freelance work and open-source collaborations.**
 
 <br/>
 
@@ -54,12 +54,12 @@
 ```yaml
 name:      Christopher Medinilla
 location:  Guatemala City, Guatemala 🌎
-role:      Python Developer · Bot Engineer · Automation Specialist
-status:    Available for freelance & junior dev opportunities
+role:      Full-Stack Developer · AI-Augmented · Automation Specialist
+status:    Available for freelance & open-source collaborations
 languages: [ Spanish (native), English (intermediate) ]
 ```
 
-I'm a 17-year-old developer with certified Python training and a practical focus on building things that work. My projects live at the intersection of automation, APIs, and problem-solving — I don't just write code, I write code that removes friction from real workflows.
+Developer based in Guatemala with a practical focus on building things that work. I operate as an AI-augmented developer — I define the architecture and technical direction, using AI to ship faster without cutting corners. My projects live at the intersection of automation, APIs, and real problem-solving.
 
 If you need something built fast, built clean, and built to actually solve your problem — let's talk.
 
@@ -181,7 +181,7 @@ An open-source, structured glossary of economic terms written in clean Markdown.
 
 **🕹️ 2D Game (WIP)**
 Original 2D game built from scratch — custom physics, collision systems, and game logic without relying on pre-built templates or engines doing the heavy lifting.
-`Unity · C# · Physics · Collision Systems`
+`Python · Physics · Collision Systems`
 *Demonstrates ability to architect systems from the ground up, not just configure engines.*
 ![wip](https://img.shields.io/badge/-in_progress-0a0a2e?style=flat-square&color=2a0a3a)
 
@@ -196,9 +196,11 @@ Original 2D game built from scratch — custom physics, collision systems, and g
 ### Languages
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 &nbsp;
-[![CS](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
 &nbsp;
-[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Tools & Platforms
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
@@ -207,24 +209,17 @@ Original 2D game built from scratch — custom physics, collision systems, and g
 &nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 &nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-&nbsp;
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
-
-### Currently Expanding Into
-[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 
 </div>
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0a2e?style=flat-square&logo=python&logoColor=f5c842)
+![Flask](https://img.shields.io/badge/Flask-0a0a2e?style=flat-square&logo=flask&logoColor=f5c842)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0a0a2e?style=flat-square&logo=cloudflare&logoColor=f5c842)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0a0a2e?style=flat-square&logo=tensorflow&logoColor=f5c842)
 ![discord.py](https://img.shields.io/badge/discord.py-0a0a2e?style=flat-square&logo=discord&logoColor=f5c842)
-![JSON](https://img.shields.io/badge/JSON-0a0a2e?style=flat-square&logo=json&logoColor=f5c842)
 ![Automation](https://img.shields.io/badge/Automation-0a0a2e?style=flat-square&logo=python&logoColor=f5c842)
 
 </div>
@@ -236,7 +231,7 @@ Original 2D game built from scratch — custom physics, collision systems, and g
 # &nbsp; ✦ Why Work With Me
 
 - **I build for outcomes, not just output.** Every project starts with understanding what problem actually needs solving — not just what was asked for.
-- **Fast learner, practical focus.** Certified in Python Basics and Pro, and I've been shipping real projects alongside the theory.
+- **AI-augmented delivery.** I use AI as a precision tool — I define the architecture and direction, AI accelerates execution. You get faster delivery without sacrificing quality.
 - **I communicate clearly.** No ghost deliveries. You'll know what's happening, when it's happening, and why.
 - **Clean code by default.** No unnecessary complexity, documented so you can maintain it long after delivery.
 - **I take small projects seriously.** Whether it's a quick script or a full bot, I treat every project like it matters — because to you, it does.
@@ -292,10 +287,11 @@ Original 2D game built from scratch — custom physics, collision systems, and g
 | ✅ | Completed **Kodland Python Basics** (Certified) | 2024 |
 | ✅ | Completed **Kodland Python Pro** (Certified) | 2025 |
 | ✅ | Built and deployed **3+ Discord bots** | 2025 |
-| ✅ | Started **2D game development** with Unity & C# | 2026 |
-| 🔄 | Deepening expertise in **OOP, APIs & automation** | 2025–Present |
+| ✅ | Certified **AI Fluency** — Anthropic | 2025 |
+| ✅ | Certified **Claude 101** — Anthropic | 2025 |
+| ✅ | Started **2D game development** with Python | 2026 |
+| 🔄 | Deepening expertise in **Flask, APIs & ML** | 2025–Present |
 | 🔄 | Completing **Senior Programming Diploma** | 2026 |
-| 🔄 | Releasing first **Unity 2D prototype** | 2026 |
 | 🔭 | Contributing to **open source projects** | 2026+ |
 
 </div>
@@ -319,6 +315,14 @@ Original 2D game built from scratch — custom physics, collision systems, and g
 <a href="https://github.com/vexselxd/Certificates/blob/main/a1c64b7f-f03e-4559-80e7-9db4b5b8d268-international.pdf">
   <img src="https://img.shields.io/badge/🐍_Kodland_Python_Pro-0a0a2e?style=for-the-badge&logoColor=f5c842"/>
 </a>
+<br/><br/>
+<a href="https://github.com/vexselxd/Certificates">
+  <img src="https://img.shields.io/badge/🤖_AI_Fluency-Anthropic-0a0a2e?style=for-the-badge&logoColor=f5c842"/>
+</a>
+&nbsp;
+<a href="https://github.com/vexselxd/Certificates">
+  <img src="https://img.shields.io/badge/🤖_Claude_101-Anthropic-0a0a2e?style=for-the-badge&logoColor=f5c842"/>
+</a>
 
 </div>
 
@@ -331,7 +335,6 @@ Original 2D game built from scratch — custom physics, collision systems, and g
 ```python
 available_for = [
     "Freelance projects — small to medium scope",
-    "Junior developer opportunities",
     "Open source collaborations",
     "Long-term working relationships",
 ]
